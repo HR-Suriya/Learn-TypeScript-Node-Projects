@@ -14,3 +14,10 @@
 
 >Step 2: 
 > "npx hrsnodeproject-calculator"
+
+## Important
+
+> This Works Like Real Calculator.
+> Step # 1 : First Input One Number.
+> Step # 2 : Select Operator You Want To Perform.
+> Step # 3 : Select Second Number.
