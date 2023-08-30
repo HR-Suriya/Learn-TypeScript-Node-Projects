@@ -1,0 +1,31 @@
+{
+  "name": "hrsnodeproject-calculator",
+  "version": "1.0.0",
+  "description": "A Simple Calculator Made In TypeScript With Help Of Node.JS & Inquirer By Hassan Raza",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "hrsnodeproject-calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "HR-Suriya",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.5.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HR-Suriya/Learn-TypeScript-Node-Projects.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HR-Suriya/Learn-TypeScript-Node-Projects/issues"
+  },
+  "homepage": "https://github.com/HR-Suriya/Learn-TypeScript-Node-Projects#readme"
+}
